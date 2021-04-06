@@ -1,4 +1,4 @@
-# Arduino_Soil_Temp_Logger
+# Arduino_Temperature_Logger
 A simple program for Arduino that logs temperatures.
 
 Sensors 
